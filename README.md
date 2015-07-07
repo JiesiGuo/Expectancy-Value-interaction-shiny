@@ -1,4 +1,5 @@
-This is the source code for latent interaction app which runs on R and Shiny. The data is a subset of data from [OMDb](http://www.omdbapi.com/), which in turn is from IMDb and Rotten Tomatoes. The data is saved in a SQLite database.
+This is the source code for latent interaction app which runs on R and Shiny. 
+
 
 To run it locally, you'll need to install the latest versions of [Shiny](http://shiny.rstudio.com), and [dplyr](https://github.com/hadley/dplyr), as well as [RSA](http://cran.r-project.org/web/packages/RSA/index.html).
 
@@ -10,7 +11,7 @@ Also, you need to download two datasets, one for [path coefficients](https://git
 
 You may need to restart R to make sure the newly-installed packages work properly.
 
-After all these packages are installed and two datasets are download are download, you can run this app by entering the directory, and then running the following in R:
+After all these packages are installed and two datasets are downloaded, you can run this app by entering the directory, and then running the following in R:
 
 ```s
 shiny::runApp()
