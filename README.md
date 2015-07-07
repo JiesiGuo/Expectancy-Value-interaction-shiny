@@ -16,4 +16,4 @@ After all these packages are installed and two datasets are downloaded, you can 
 ```s
 shiny::runApp()
 ```
-This app is also published in [shinyapp](https://jiesiguo.shinyapps.io/latent_interaction)].
+This app is also published in [shinyapp.io](https://jiesiguo.shinyapps.io/latent_interaction).
