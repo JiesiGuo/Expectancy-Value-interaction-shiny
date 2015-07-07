@@ -7,7 +7,7 @@ To run it locally, you'll need to install the latest versions of [Shiny](http://
 install.packages(c('shiny', 'dplyr', 'RSA'))
 ```
 
-Also, you need to download two datasets, one for [path coefficients](https://github.com/JiesiGuo/Expectancy-Value-interaction-shiny/blob/master/inter_plot.csv)) with standard error and the other one for the [factor scores](https://github.com/JiesiGuo/Expectancy-Value-interaction-shiny/blob/master/factor_scores.csv) of latent variables presented in the surfure of the interaciton plot.
+Also, you need to download two datasets, one for [path coefficients](https://github.com/JiesiGuo/Expectancy-Value-interaction-shiny/blob/master/inter_plot.csv) with standard error and the other one for the [factor scores](https://github.com/JiesiGuo/Expectancy-Value-interaction-shiny/blob/master/factor_scores.csv) of latent variables presented in the surfure of the interaciton plot.
 
 You may need to restart R to make sure the newly-installed packages work properly.
 
